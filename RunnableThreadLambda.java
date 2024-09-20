@@ -1,6 +1,4 @@
-package com.projects;
 
-import java.awt.image.renderable.RenderableImage;
 
 //class A implements Runnable{
 //    public void run(){
